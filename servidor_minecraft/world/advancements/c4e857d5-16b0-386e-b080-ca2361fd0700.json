@@ -8231,9 +8231,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-22 03:29:54 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-07-22 02:59:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-07-22 03:26:34 +0000"
     },
     "done": true
   },

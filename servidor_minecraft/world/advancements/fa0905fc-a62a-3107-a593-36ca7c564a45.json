@@ -205,6 +205,7 @@
       "minecraft:beach": "2025-07-17 21:33:31 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 21:35:28 +0000",
       "minecraft:river": "2025-07-17 20:39:39 +0000",
+      "minecraft:cold_ocean": "2025-07-22 03:33:48 +0000",
       "minecraft:forest": "2025-07-17 21:10:20 +0000",
       "minecraft:jungle": "2025-07-17 21:31:12 +0000",
       "minecraft:ocean": "2025-07-17 21:39:44 +0000",
@@ -713,6 +714,7 @@
       "cooked_mutton": "2025-07-17 21:02:11 +0000",
       "sweet_berries": "2025-07-17 20:47:50 +0000",
       "cooked_beef": "2025-07-17 23:21:37 +0000",
+      "golden_carrot": "2025-07-22 03:21:11 +0000",
       "cooked_chicken": "2025-07-17 21:23:34 +0000"
     },
     "done": false
@@ -3296,6 +3298,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-22 03:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-22 03:26:28 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-07-22 03:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-07-22 03:09:22 +0000"
@@ -3305,6 +3325,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-07-22 03:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-22 03:26:28 +0000"
     },
     "done": true
   },
