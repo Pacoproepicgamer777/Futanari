@@ -8396,9 +8396,27 @@
     },
     "done": true
   },
+  "cgs:recipes/misc/lead_ingot_from_blasting_lead_ore": {
+    "criteria": {
+      "has_lead_ore": "2025-07-22 17:56:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-22 17:56:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-07-22 17:38:55 +0000"
+    },
+    "done": true
+  },
+  "cgs:recipes/misc/lead_ingot_from_smelting_lead_ore": {
+    "criteria": {
+      "has_lead_ore": "2025-07-22 17:56:37 +0000"
     },
     "done": true
   },

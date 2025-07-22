@@ -13170,3 +13170,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [22Jul2025 17:49:37.930] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26063, l='ServerLevel[world]', x=-3070.37, y=92.00, z=737.85] died, message: 'Villager was slain by Ghost'
 [22Jul2025 17:50:17.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26033, l='ServerLevel[world]', x=-3034.85, y=93.00, z=686.08] died, message: 'Farmer was taken down by Darkiumoun'
 [22Jul2025 17:50:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction Hell Hogs has been defeated!
+[22Jul2025 17:50:44.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction Hell Hogs has been defeated!
+[22Jul2025 17:51:01.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction Hell Hogs has been defeated!
+[22Jul2025 17:52:29.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 17:52:29.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 17:56:03.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun has made the advancement [No Step on Snake]
+[22Jul2025 17:57:29.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 17:57:29.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
