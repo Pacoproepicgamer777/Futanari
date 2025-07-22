@@ -51,6 +51,7 @@
       "scrubland": "2025-07-17 21:42:08 +0000",
       "erupting_inferno": "2025-07-19 05:00:18 +0000",
       "highland": "2025-07-17 21:22:49 +0000",
+      "marsh": "2025-07-22 04:37:32 +0000",
       "jade_cliffs": "2025-07-17 22:56:38 +0000",
       "clover_patch": "2025-07-17 21:23:20 +0000",
       "old_growth_woodland": "2025-07-17 21:55:33 +0000",
@@ -63,6 +64,9 @@
       "coniferous_forest": "2025-07-17 20:41:22 +0000",
       "spider_nest": "2025-07-17 23:49:34 +0000",
       "forested_field": "2025-07-18 02:39:17 +0000",
+      "dryland": "2025-07-22 04:17:33 +0000",
+      "wasteland": "2025-07-22 04:18:27 +0000",
+      "lush_desert": "2025-07-22 04:25:58 +0000",
       "redwood_forest": "2025-07-17 21:23:45 +0000",
       "visceral_heap": "2025-07-19 05:15:38 +0000",
       "seasonal_orchard": "2025-07-17 20:45:42 +0000",
@@ -97,12 +101,14 @@
       "minecraft:frozen_river": "2025-07-21 16:18:41 +0000",
       "minecraft:sunflower_plains": "2025-07-17 04:25:35 +0000",
       "minecraft:cherry_grove": "2025-07-17 21:13:31 +0000",
+      "minecraft:birch_forest": "2025-07-22 04:26:50 +0000",
       "minecraft:bamboo_jungle": "2025-07-18 15:17:37 +0000",
       "minecraft:badlands": "2025-07-21 05:17:43 +0000",
       "minecraft:savanna_plateau": "2025-07-17 22:12:42 +0000",
       "minecraft:beach": "2025-07-17 21:33:22 +0000",
       "minecraft:dark_forest": "2025-07-18 15:17:51 +0000",
       "minecraft:stony_peaks": "2025-07-22 04:00:01 +0000",
+      "minecraft:sparse_jungle": "2025-07-22 04:25:24 +0000",
       "minecraft:river": "2025-07-17 04:17:59 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 21:35:05 +0000",
       "minecraft:stony_shore": "2025-07-17 22:12:00 +0000",
@@ -116,7 +122,9 @@
       "minecraft:jungle": "2025-07-17 21:31:37 +0000",
       "minecraft:ocean": "2025-07-17 21:39:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-17 21:31:20 +0000",
+      "minecraft:warm_ocean": "2025-07-22 04:12:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-17 21:37:19 +0000",
+      "minecraft:flower_forest": "2025-07-22 04:33:10 +0000",
       "minecraft:frozen_peaks": "2025-07-18 01:21:27 +0000",
       "minecraft:deep_dark": "2025-07-17 23:27:06 +0000",
       "minecraft:meadow": "2025-07-17 21:07:58 +0000",
@@ -8307,6 +8315,54 @@
   "tombstone:adventure/revive_familiar": {
     "criteria": {
       "coded_trigger": "2025-07-22 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-07-22 04:19:32 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-07-22 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-07-22 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-22 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-22 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-22 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-22 04:32:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-22 04:32:40 +0000"
     },
     "done": true
   },
