@@ -15055,3 +15055,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [22Jul2025 18:08:13.119] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [25, -20], size does not match; expected: 43, got: 37
 [22Jul2025 18:08:13.119] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [25, -20], size does not match; expected: 43, got: 37
 [22Jul2025 18:08:13.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[22Jul2025 18:12:32.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 18:12:32.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 18:17:32.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 18:17:32.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
