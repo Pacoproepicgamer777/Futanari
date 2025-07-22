@@ -133,10 +133,10 @@
 		initialChance = 1
 		#This defines the increment of the chance of mobs spawning with guns per day.
 		#Range: 0 ~ 100
-		chanceIncrement = 1
+		chanceIncrement = 0
 		#This will define the max chance of mobs spawning with guns.
 		#Range: 1 ~ 100
-		maxChance = 50
+		maxChance = 5
 		#If enabled, the Terror Phantom will destroy blocks with its grenades.
 		terrorPhantomDestroyBlocks = false
 		#If enabled, defeating the Terror Phantom will enable the Phantom Swarm.
