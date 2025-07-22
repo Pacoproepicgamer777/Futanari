@@ -51,6 +51,7 @@
       "mediterranean_forest": "2025-07-17 21:58:49 +0000",
       "coniferous_forest": "2025-07-17 20:41:15 +0000",
       "forested_field": "2025-07-21 21:48:59 +0000",
+      "spider_nest": "2025-07-22 03:45:33 +0000",
       "redwood_forest": "2025-07-17 21:24:02 +0000",
       "seasonal_orchard": "2025-07-17 20:44:34 +0000",
       "dune_beach": "2025-07-17 20:39:43 +0000",
@@ -3322,6 +3323,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-22 03:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-22 03:42:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-07-22 03:05:10 +0000"
@@ -3340,6 +3359,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-22 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 03:49:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-07-22 03:09:22 +0000"
@@ -3355,6 +3386,18 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-07-22 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-22 03:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-22 03:42:03 +0000"
     },
     "done": true
   },

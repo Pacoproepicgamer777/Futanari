@@ -102,6 +102,7 @@
       "minecraft:savanna_plateau": "2025-07-17 22:12:42 +0000",
       "minecraft:beach": "2025-07-17 21:33:22 +0000",
       "minecraft:dark_forest": "2025-07-18 15:17:51 +0000",
+      "minecraft:stony_peaks": "2025-07-22 04:00:01 +0000",
       "minecraft:river": "2025-07-17 04:17:59 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 21:35:05 +0000",
       "minecraft:stony_shore": "2025-07-17 22:12:00 +0000",
@@ -8231,9 +8232,27 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_hydra": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "killed_fire_dragon": "2025-07-22 03:29:54 +0000"
+      "coded_trigger": "2025-07-22 02:53:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-22 02:53:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-07-22 02:53:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_assistance": {
+    "criteria": {
+      "coded_trigger": "2025-07-22 02:57:41 +0000"
     },
     "done": true
   },
@@ -8249,27 +8268,45 @@
     },
     "done": true
   },
-  "tombstone:adventure/ancient_knowledge": {
+  "iceandfire:iceandfire/kill_hydra": {
     "criteria": {
-      "coded_trigger": "2025-07-22 02:53:31 +0000"
+      "killed_fire_dragon": "2025-07-22 03:29:54 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_assistance": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
-      "coded_trigger": "2025-07-22 02:57:41 +0000"
+      "has_item": "2025-07-22 03:49:45 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
+  "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
-      "coded_trigger": "2025-07-22 02:53:24 +0000"
+      "forge": "2025-07-22 03:49:45 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_ancient_tablet": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
     "criteria": {
-      "has_ancient_tablet": "2025-07-22 02:53:31 +0000"
+      "has_item": "2025-07-22 03:49:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-07-22 03:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-22 03:52:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-07-22 03:52:24 +0000"
     },
     "done": true
   },
