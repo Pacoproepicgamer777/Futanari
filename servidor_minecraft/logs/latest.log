@@ -5373,3 +5373,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [22Jul2025 15:48:20.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cars0325 lost connection: Disconnected
 [22Jul2025 15:48:20.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 left the game
 [22Jul2025 15:48:20.833] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Cars0325[cdee860c-14b2-399b-9434-7a30a3a1578b]
+[22Jul2025 16:04:46.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction Night Of The Undead has started a raid at BlockPos{x=812, y=93, z=-3822}!
+[22Jul2025 16:05:29.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are no players left in the Raid zone!
+[22Jul2025 16:05:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Faction Night Of The Undead has won the Raid!
+[22Jul2025 16:06:31.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 has made the advancement [Ender Distancing]
+[22Jul2025 16:06:34.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 has made the advancement [Capsid-19]
