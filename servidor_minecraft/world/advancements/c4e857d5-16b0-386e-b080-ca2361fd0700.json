@@ -8318,15 +8318,21 @@
     },
     "done": true
   },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-07-22 04:14:46 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed": "2025-07-22 04:19:32 +0000"
     },
     "done": true
   },
-  "cataclysm:find_acropolis": {
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
     "criteria": {
-      "acropolis": "2025-07-22 04:14:46 +0000"
+      "has_sand": "2025-07-22 04:30:55 +0000"
     },
     "done": true
   },
@@ -8345,12 +8351,6 @@
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-07-22 04:32:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/black_sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-22 04:30:55 +0000"
     },
     "done": true
   },
