@@ -52,10 +52,12 @@
       "coniferous_forest": "2025-07-17 20:41:15 +0000",
       "forested_field": "2025-07-21 21:48:59 +0000",
       "spider_nest": "2025-07-22 03:45:33 +0000",
+      "old_growth_dead_forest": "2025-07-23 16:55:10 +0000",
       "redwood_forest": "2025-07-17 21:24:02 +0000",
       "seasonal_orchard": "2025-07-17 20:44:34 +0000",
       "dune_beach": "2025-07-17 20:39:43 +0000",
       "seasonal_forest": "2025-07-17 20:44:31 +0000",
+      "dead_forest": "2025-07-23 16:55:50 +0000",
       "pasture": "2025-07-17 20:38:10 +0000",
       "lavender_field": "2025-07-17 21:58:29 +0000",
       "fir_clearing": "2025-07-17 20:43:40 +0000",
@@ -202,6 +204,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-07-17 21:39:40 +0000",
+      "minecraft:frozen_river": "2025-07-23 16:55:46 +0000",
       "minecraft:cherry_grove": "2025-07-21 22:18:14 +0000",
       "minecraft:windswept_hills": "2025-07-21 22:18:54 +0000",
       "minecraft:beach": "2025-07-17 21:33:31 +0000",
@@ -3411,6 +3414,108 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-07-22 16:06:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-07-23 16:58:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-23 16:59:18 +0000"
     },
     "done": true
   },

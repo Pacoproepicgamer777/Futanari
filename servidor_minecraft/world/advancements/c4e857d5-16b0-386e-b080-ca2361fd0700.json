@@ -8609,6 +8609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
       "has_dragonscale_blue": "2025-07-23 16:46:12 +0000"
@@ -8621,9 +8627,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-07-23 16:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
     },
     "done": true
   },
@@ -8648,6 +8672,18 @@
   "tombstone:adventure/exorcism": {
     "criteria": {
       "coded_trigger": "2025-07-23 16:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 16:50:30 +0000"
     },
     "done": true
   },
