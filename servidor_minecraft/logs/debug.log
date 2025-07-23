@@ -13917,3 +13917,36 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [23Jul2025 18:35:47.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1316, y=-52, z=-3844} BlockPos{x=1317, y=-53, z=-3843}
 [23Jul2025 18:35:55.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1321, y=-53, z=-3857} BlockPos{x=1321, y=-51, z=-3859}
 [23Jul2025 18:36:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 has made the advancement [Sneak 100]
+[23Jul2025 18:36:28.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty has made the advancement [It's not time to tan]
+[23Jul2025 18:38:44.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1274, y=-48, z=-3711} BlockPos{x=1274, y=-49, z=-3711}
+[23Jul2025 18:38:44.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1274, y=-48, z=-3711} BlockPos{x=1274, y=-49, z=-3711}
+[23Jul2025 18:38:50.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1288, y=-52, z=-3713} BlockPos{x=1287, y=-53, z=-3713}
+[23Jul2025 18:39:15.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 18:39:15.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 18:40:43.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was obliterated by a sonically-charged shriek
+[23Jul2025 18:40:43.341] [Server thread/DEBUG] [tombstone/]: A new grave of the player Color_duty was created at position [x:1305, y:-45, z:-3731, dim:minecraft:overworld]
+[23Jul2025 18:40:43.351] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[23Jul2025 18:41:08.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 has made the advancement [Poseidon, God of the Seas]
+[23Jul2025 18:41:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 was slain by Warden
+[23Jul2025 18:41:12.596] [Server thread/DEBUG] [tombstone/]: A new grave of the player elCebollita3797 was created at position [x:1270, y:-50, z:-3764, dim:minecraft:overworld]
+[23Jul2025 18:41:12.607] [Server thread/INFO] [tombstone/]: The player elCebollita3797 has successfully been saved
+[23Jul2025 18:41:43.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was slain by Warden
+[23Jul2025 18:41:43.241] [Server thread/DEBUG] [tombstone/]: A new grave of the player Color_duty was created at position [x:1278, y:-50, z:-3760, dim:minecraft:overworld]
+[23Jul2025 18:41:43.255] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[23Jul2025 18:42:41.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was obliterated by a sonically-charged shriek
+[23Jul2025 18:42:41.344] [Server thread/DEBUG] [tombstone/]: A new grave of the player Color_duty was created at position [x:1258, y:-51, z:-3767, dim:minecraft:overworld]
+[23Jul2025 18:42:41.355] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[23Jul2025 18:43:15.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was slain by Warden
+[23Jul2025 18:43:15.095] [Server thread/DEBUG] [tombstone/]: A new grave of the player Color_duty was created at position [x:1250, y:-51, z:-3768, dim:minecraft:overworld]
+[23Jul2025 18:43:15.114] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[23Jul2025 18:44:15.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 18:44:15.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 18:45:43.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 was obliterated by a sonically-charged shriek
+[23Jul2025 18:45:43.445] [Server thread/DEBUG] [tombstone/]: A new grave of the player elCebollita3797 was created at position [x:1411, y:-49, z:-3753, dim:minecraft:overworld]
+[23Jul2025 18:45:43.453] [Server thread/INFO] [tombstone/]: The player elCebollita3797 has successfully been saved
+[23Jul2025 18:45:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was obliterated by a sonically-charged shriek
+[23Jul2025 18:45:52.896] [Server thread/DEBUG] [tombstone/]: A new grave of the player Color_duty was created at position [x:1409, y:-48, z:-3744, dim:minecraft:overworld]
+[23Jul2025 18:45:52.904] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[23Jul2025 18:46:33.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 was slain by Warden
+[23Jul2025 18:46:33.193] [Server thread/DEBUG] [tombstone/]: A new grave of the player elCebollita3797 was created at position [x:1299, y:-53, z:-3726, dim:minecraft:overworld]
+[23Jul2025 18:46:33.209] [Server thread/INFO] [tombstone/]: The player elCebollita3797 has successfully been saved
