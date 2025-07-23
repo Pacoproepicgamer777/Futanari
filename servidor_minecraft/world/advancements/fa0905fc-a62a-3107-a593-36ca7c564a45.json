@@ -64,6 +64,7 @@
       "pumpkin_patch": "2025-07-21 21:33:26 +0000",
       "prairie": "2025-07-17 20:57:11 +0000",
       "grassland": "2025-07-22 16:08:19 +0000",
+      "glowing_grotto": "2025-07-23 17:30:34 +0000",
       "crag": "2025-07-17 23:00:10 +0000",
       "ominous_woods": "2025-07-21 22:11:56 +0000"
     },
@@ -3449,9 +3450,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-23 17:32:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-23 17:34:37 +0000"
     },
     "done": true
   },
@@ -3470,6 +3483,12 @@
   "iceandfire:recipes/combat/armor_sapphire_chestplate": {
     "criteria": {
       "has_item": "2025-07-23 16:59:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-23 17:34:37 +0000"
     },
     "done": true
   },
@@ -3509,9 +3528,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-23 17:33:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-23 17:32:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-23 17:33:50 +0000"
     },
     "done": true
   },
@@ -3587,6 +3624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-23 17:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-23 17:53:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-07-23 17:11:18 +0000"
@@ -3602,6 +3651,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-23 17:33:50 +0000"
     },
     "done": true
   },
@@ -3626,6 +3681,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-07-23 16:59:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-23 17:33:50 +0000"
     },
     "done": true
   },
