@@ -739,6 +739,7 @@
       "cooked_cod": "2025-07-21 04:16:10 +0000",
       "mutton": "2025-07-17 21:17:16 +0000",
       "bread": "2025-07-17 23:08:37 +0000",
+      "golden_apple": "2025-07-23 18:25:51 +0000",
       "salmon": "2025-07-18 19:21:05 +0000",
       "melon_slice": "2025-07-17 21:38:23 +0000",
       "golden_carrot": "2025-07-18 21:29:32 +0000",
@@ -5649,6 +5650,12 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-07-23 18:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-23 18:32:30 +0000"
     },
     "done": true
   },
