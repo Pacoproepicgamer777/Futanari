@@ -125,6 +125,7 @@
       "minecraft:deep_cold_ocean": "2025-07-18 02:25:40 +0000",
       "minecraft:frozen_ocean": "2025-07-20 17:48:43 +0000",
       "minecraft:desert": "2025-07-21 05:17:39 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-23 04:54:34 +0000",
       "minecraft:jungle": "2025-07-17 21:31:37 +0000",
       "minecraft:ocean": "2025-07-17 21:39:35 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-17 21:31:20 +0000",
@@ -8566,15 +8567,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-07-23 04:03:29 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
     "criteria": {
       "has_log": "2025-07-23 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-23 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-23 04:03:29 +0000"
     },
     "done": true
   },
@@ -8584,9 +8591,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_hanging_sign": {
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
-      "has_stripped_logs": "2025-07-23 02:35:17 +0000"
+      "has_pitcher_plant": "2025-07-23 04:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-07-23 04:40:16 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-23 04:59:27 +0000"
     },
     "done": true
   },
