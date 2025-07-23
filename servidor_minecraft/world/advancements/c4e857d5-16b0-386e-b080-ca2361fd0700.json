@@ -8749,15 +8749,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "killed": "2025-07-23 17:16:49 +0000"
+      "axolotl_bucket": "2025-07-23 17:10:02 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/ender_flu": {
+  "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
-      "all_effects": "2025-07-23 17:17:21 +0000"
+      "killed": "2025-07-23 17:16:49 +0000"
     },
     "done": true
   },
@@ -8767,9 +8767,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
+  "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
-      "axolotl_bucket": "2025-07-23 17:10:02 +0000"
+      "all_effects": "2025-07-23 17:17:21 +0000"
     },
     "done": true
   },
