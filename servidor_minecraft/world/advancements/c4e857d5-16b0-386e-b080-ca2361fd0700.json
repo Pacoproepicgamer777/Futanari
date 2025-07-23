@@ -8779,5 +8779,23 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-07-23 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-07-23 19:07:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_spectral_potion": {
+    "criteria": {
+      "brew_spectral_potion": "2025-07-23 19:07:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
