@@ -8560,9 +8560,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-23 04:03:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
     "criteria": {
       "has_log": "2025-07-23 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-23 04:03:29 +0000"
     },
     "done": true
   },

@@ -9018,3 +9018,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [23Jul2025 03:44:23.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1597, y=99, z=-3085} BlockPos{x=-1594, y=98, z=-3087}
 [23Jul2025 03:44:23.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1597, y=99, z=-3084} BlockPos{x=-1594, y=98, z=-3087}
 [23Jul2025 03:44:23.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1597, y=99, z=-3083} BlockPos{x=-1594, y=98, z=-3087}
+[23Jul2025 03:53:33.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.4487942810746972
+[23Jul2025 03:53:33.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.6889247118378989
+[23Jul2025 03:53:33.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.6889247118378989
+[23Jul2025 03:53:33.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.6889247118378989
+[23Jul2025 04:00:44.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Color_duty[/100.102.12.1:50181] logged in with entity id 22889 at (977.4818875115047, 62.320529463737884, -3899.509419524737)
+[23Jul2025 04:00:44.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty joined the game
+[23Jul2025 04:00:44.985] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Color_duty just logged in with id 65283ae9-2d8c-306b-ace2-be67c141c444
+[23Jul2025 04:00:44.995] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[23Jul2025 04:00:45.563] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Color_duty
+[23Jul2025 04:09:01.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.30975478859113537
+[23Jul2025 04:09:01.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Weird looking dog (vehicle of Darkiumoun) moved wrongly! 0.689957966143993
