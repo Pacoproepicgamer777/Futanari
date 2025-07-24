@@ -5359,3 +5359,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [24Jul2025 02:12:29.680] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://www.minecraftskins.com/uploads/skins/2025/07/02/mango-glorb---129389--23372514.png?v895 downloaded
 [24Jul2025 02:12:29.681] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
 [24Jul2025 02:12:29.682] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/65283ae9-2d8c-306b-ace2-be67c141c444
+[24Jul2025 02:28:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has completed the challenge [Free Willy]
+[24Jul2025 02:47:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has made the advancement [Funeral Theft]
