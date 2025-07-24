@@ -54,6 +54,7 @@
       "marsh": "2025-07-22 04:37:32 +0000",
       "jade_cliffs": "2025-07-17 22:56:38 +0000",
       "clover_patch": "2025-07-17 21:23:20 +0000",
+      "mystic_grove": "2025-07-23 19:35:21 +0000",
       "old_growth_woodland": "2025-07-17 21:55:33 +0000",
       "maple_woods": "2025-07-18 02:41:49 +0000",
       "withered_abyss": "2025-07-21 04:47:25 +0000",
@@ -61,6 +62,7 @@
       "field": "2025-07-18 02:26:02 +0000",
       "lavender_forest": "2025-07-17 22:24:07 +0000",
       "moor": "2025-07-18 18:15:40 +0000",
+      "mediterranean_forest": "2025-07-23 19:23:53 +0000",
       "coniferous_forest": "2025-07-17 20:41:22 +0000",
       "spider_nest": "2025-07-17 23:49:34 +0000",
       "forested_field": "2025-07-18 02:39:17 +0000",
@@ -135,6 +137,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-07-17 21:37:19 +0000",
       "minecraft:flower_forest": "2025-07-22 04:33:10 +0000",
       "minecraft:frozen_peaks": "2025-07-18 01:21:27 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-23 19:26:29 +0000",
       "minecraft:deep_dark": "2025-07-17 23:27:06 +0000",
       "minecraft:meadow": "2025-07-17 21:07:58 +0000",
       "minecraft:savanna": "2025-07-17 22:12:43 +0000",
@@ -8794,6 +8797,90 @@
   "tombstone:adventure/create_spectral_potion": {
     "criteria": {
       "brew_spectral_potion": "2025-07-23 19:07:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-07-23 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_boots": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-23 19:25:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-07-23 19:31:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_axe": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-23 20:01:24 +0000"
     },
     "done": true
   },

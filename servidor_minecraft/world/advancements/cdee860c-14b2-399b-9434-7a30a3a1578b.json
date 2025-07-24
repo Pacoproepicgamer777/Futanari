@@ -5661,9 +5661,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "ad_astra:recipes/misc/gray_flag": {
     "criteria": {
-      "has_smelts_to_glass": "2025-07-23 19:16:23 +0000"
+      "has_gray_flag": "2025-07-23 18:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-23 18:46:29 +0000"
     },
     "done": true
   },
@@ -5673,15 +5679,9 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/gray_flag": {
+  "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "has_gray_flag": "2025-07-23 18:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-23 19:16:23 +0000"
+      "has_enchanted_voodoo_poppet": "2025-07-23 18:47:15 +0000"
     },
     "done": true
   },
@@ -5691,15 +5691,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-07-23 18:47:15 +0000"
+      "has_smelts_to_glass": "2025-07-23 19:16:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-07-23 18:46:29 +0000"
+      "has_sand": "2025-07-23 19:16:23 +0000"
     },
     "done": true
   },

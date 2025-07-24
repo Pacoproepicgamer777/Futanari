@@ -5656,6 +5656,36 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-23 18:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-23 18:32:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-23 18:36:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/death_master": {
+    "criteria": {
+      "has_prevent_burn": "2025-07-23 18:36:28 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2025-07-23 18:36:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-23 18:46:32 +0000"
@@ -5689,18 +5719,6 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-23 18:46:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/death_master": {
-    "criteria": {
-      "has_prevent_burn": "2025-07-23 18:36:28 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/prevent_death_burn": {
-    "criteria": {
-      "coded_trigger": "2025-07-23 18:36:28 +0000"
     },
     "done": true
   },
@@ -5758,39 +5776,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-07-23 18:32:30 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-23 18:46:32 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-07-23 18:15:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-23 18:46:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-07-23 19:05:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-07-23 18:36:10 +0000"
     },
     "done": true
   },
@@ -5803,6 +5797,12 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-23 18:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-07-23 19:05:45 +0000"
     },
     "done": true
   },
