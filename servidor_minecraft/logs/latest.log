@@ -5362,3 +5362,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [24Jul2025 02:28:12.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has completed the challenge [Free Willy]
 [24Jul2025 02:47:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has made the advancement [Funeral Theft]
 [24Jul2025 02:51:57.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has made the advancement [Magic Writing]
+[24Jul2025 03:06:11.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was shot by Skeleton
+[24Jul2025 03:06:11.683] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[24Jul2025 03:10:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> xaero-waypoint:JULIO:S:725:-2:-4884:5:false:0:Internal-overworld-waypoints
