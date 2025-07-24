@@ -12682,3 +12682,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [24Jul2025 02:12:29.680] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://www.minecraftskins.com/uploads/skins/2025/07/02/mango-glorb---129389--23372514.png?v895 downloaded
 [24Jul2025 02:12:29.681] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
 [24Jul2025 02:12:29.682] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/65283ae9-2d8c-306b-ace2-be67c141c444
+[24Jul2025 02:16:19.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 02:16:19.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 02:21:19.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 02:21:19.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 02:26:19.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 02:26:19.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
